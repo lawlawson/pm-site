@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "mymoney-2df08"
-  }
+    "default": "thepmsite-8b29b",
+    "testing": "thepmsite-8b29b"
+  },
+  "targets": {},
+  "etags": {}
 }
